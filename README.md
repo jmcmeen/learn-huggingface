@@ -52,22 +52,22 @@ jupyter lab
 
 Start with the `01_introduction.ipynb` notebook and work your way through the numbered sequence.
 
-## 📓 Notebook Structure
-- **01_introduction.ipynb** - Getting started with Hugging Face
-- **02_tokenizers.ipynb** - Understanding tokenization
-- **03_model_loading.ipynb** - Loading and using pre-trained models
-- **04_pipelines.ipynb** - Using Hugging Face pipelines for common tasks
-- **05_text_classification.ipynb** - Building text classifiers
-- **06_token_classification.ipynb** - NER and POS tagging
-- **07_text_generation.ipynb** - Generating text with language models
-- **08_question_answering.ipynb** - Building QA systems
-- **09_summarization.ipynb** - Text summarization techniques
-- **10_fine_tuning_basics.ipynb** - Introduction to fine-tuning
-- **11_custom_datasets.ipynb** - Working with custom data
-- **12_advanced_fine_tuning.ipynb** - Advanced training techniques
-- **13_model_optimization.ipynb** - Optimization and compression
-- **14_deployment.ipynb** - Deploying models in production
-- **15_multimodal.ipynb** - Vision-language models
+## 📓 Notebooks
+- [Getting started with Hugging Face](01_introduction.ipynb)
+- [Understanding tokenization](02_tokenizers.ipynb)
+- [Loading and using pre-trained models](03_model_loading.ipynb)
+- [Using Hugging Face pipelines for common tasks](04_pipelines.ipynb)
+- [Building text classifiers](05_text_classification.ipynb)
+- [NER and POS tagging](06_token_classification.ipynb)
+- [Generating text with language models](07_text_generation.ipynb)
+- [Building QA systems](08_question_answering.ipynb)
+- [Text summarization techniques](09_summarization.ipynb)
+- [Introduction to fine-tuning](10_fine_tuning_basics.ipynb)
+- [Working with custom data](11_custom_datasets.ipynb)
+- [Advanced training techniques](12_advanced_fine_tuning.ipynb)
+- [Optimization and compression](13_model_optimization.ipynb)
+- [Deploying models in production](14_deployment.ipynb)
+- [Vision-language models](15_multimodal.ipynb)
 
 ## 🔗 Essential Resources
 
@@ -144,4 +144,4 @@ This project is licensed under the CC0 1.0 Universal - see the [LICENSE](LICENSE
 
 **Happy Learning! 🚀**
 
-*Remember: The best way to learn is by doing. Start with the basics and gradually work your way up to more complex topics.*
+*The best way to learn is by doing. Start with the basics and gradually work your way up to more complex topics.*
